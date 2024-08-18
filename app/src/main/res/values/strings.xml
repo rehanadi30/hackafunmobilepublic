@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">friendy</string>
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">pk</string>
+    <string name="map_button">Map Button</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="login_button">LOGIN</string>
+    <string name="create_account">Create Account</string>
+    <string name="username_hint">Username/Email</string>
+    <string name="password_hint">Password</string>
+    <string name="logo_description">Logo</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="login">Login</string>
+    <string name="hobby">Hobby</string>
+    <string name="star_sign">Star Sign</string>
+    <string name="favorite_color">Favorite Color</string>
+    <string name="favorite_food">Favorite Food</string>
+    <string name="favorite_movie_genre">Favorite Movie/Genre</string>
+    <string name="favorite_music">Favorite Music</string>
+    <string name="favorite_band">Favorite Band</string>
+    <string name="favorite_singer">Favorite Singer</string>
+    <string name="submit_button">Submit</string>
+    <string name="photo_description">Photo</string>
+    <string name="happy_with_avatar">Are ya happy with this Avatar?</string>
+    <string name="retake_button">Retake</string>
+</resources>

@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Circle background -->
+    <item>
+        <shape
+            android:shape="rectangle">
+        </shape>
+    </item>
+    <!-- Cross (X) -->
+    <item android:drawable="@drawable/cross_circle"/>
+</layer-list>
